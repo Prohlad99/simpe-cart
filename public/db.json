@@ -1,0 +1,74 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "https://t3.ftcdn.net/jpg/02/68/00/30/360_F_268003032_PYDU5gcLWsTAFSN2mnYO2CN8fw1dUBBj.jpg",
+      "title": "Sun Glasses",
+      "description": "lorem ipsum dolar",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "img": "https://t4.ftcdn.net/jpg/00/82/88/75/360_F_82887549_YuOwjXVOWBg6XXLOW2rQzK18igucTwos.jpg",
+      "title": "Black keyboard",
+      "description": "lorem ipsum dolar",
+      "price": 70
+    },
+    {
+      "id": 3,
+      "img": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?cs=srgb&dl=pexels-pixabay-280250.jpg&fm=jpg",
+      "title": "Apple Watch",
+      "description": "lorem ipsum dolar",
+      "price": 990
+    },
+    {
+      "id": 4,
+      "img": "https://5.imimg.com/data5/IS/JP/MY-58678879/computer-mouse.jpg",
+      "title": "Black Mouse",
+      "description": "lorem ipsum dolar",
+      "price": 30
+    },
+    {
+      "id": 5,
+      "img": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "accer laptop",
+      "description": "lorem ipsum dolar",
+      "price": 999
+    },
+    {
+      "id": 6,
+      "img": "https://images.unsplash.com/photo-1612817159623-0399784fd0ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8&w=1000&q=80",
+      "title": "Leather Watch",
+      "description": "lorem ipsum dolar",
+      "price": 880
+    },
+    {
+      "id": 7,
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/univision/led350-17-inch/led350-17-inch-01-228x228.webp",
+      "title": "One plus monitor",
+      "description": "lorem ipsum dolar",
+      "price": 40
+    },
+    {
+      "id": 8,
+      "img": "https://t4.ftcdn.net/jpg/01/87/04/71/360_F_187047193_dxNXJyc8Mm4z6g6ud8PgbX29zy0FUwYy.jpg",
+      "title": "Sun Glasses",
+      "description": "lorem ipsum dolar",
+      "price": 40
+    },
+    {
+      "id": 9,
+      "img": "https://img.freepik.com/free-photo/isolated-white-cap_125540-1024.jpg",
+      "title": "cap",
+      "description": "lorem ipsum dolar",
+      "price": 140
+    },
+    {
+      "id": 10,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2020/11/phones-switch-apps.jpg",
+      "title": "mobile",
+      "description": "lorem ipsum dolar",
+      "price": 25000
+    }
+  ]
+}
